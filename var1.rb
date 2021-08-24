@@ -1,0 +1,2 @@
+name="Rishabh"
+puts name 
